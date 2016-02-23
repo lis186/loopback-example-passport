@@ -1,6 +1,12 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "memory"
-  }
+    "db": {
+        "host": "ds029595.mongolab.com",
+        "port": 29595,
+        "url": "",
+        "database": "sociallogin_api",
+        "password": "123456",
+        "name": "db",
+        "connector": "mongodb",
+        "user": "admin"
+    }
 }
